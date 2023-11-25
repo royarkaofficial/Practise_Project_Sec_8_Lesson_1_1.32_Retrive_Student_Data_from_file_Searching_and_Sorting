@@ -1,0 +1,7 @@
+E:\Phase 2\Practise Project Sec 8_Last_Date_29_Nov\Practise_Project_29_Nov\Practise_Project_29_Nov\bin\Debug\Practise_Project_29_Nov.exe.config
+E:\Phase 2\Practise Project Sec 8_Last_Date_29_Nov\Practise_Project_29_Nov\Practise_Project_29_Nov\bin\Debug\Practise_Project_29_Nov.exe
+E:\Phase 2\Practise Project Sec 8_Last_Date_29_Nov\Practise_Project_29_Nov\Practise_Project_29_Nov\bin\Debug\Practise_Project_29_Nov.pdb
+E:\Phase 2\Practise Project Sec 8_Last_Date_29_Nov\Practise_Project_29_Nov\Practise_Project_29_Nov\obj\Debug\Practise_Project_29_Nov.csproj.AssemblyReference.cache
+E:\Phase 2\Practise Project Sec 8_Last_Date_29_Nov\Practise_Project_29_Nov\Practise_Project_29_Nov\obj\Debug\Practise_Project_29_Nov.csproj.CoreCompileInputs.cache
+E:\Phase 2\Practise Project Sec 8_Last_Date_29_Nov\Practise_Project_29_Nov\Practise_Project_29_Nov\obj\Debug\Practise_Project_29_Nov.exe
+E:\Phase 2\Practise Project Sec 8_Last_Date_29_Nov\Practise_Project_29_Nov\Practise_Project_29_Nov\obj\Debug\Practise_Project_29_Nov.pdb
